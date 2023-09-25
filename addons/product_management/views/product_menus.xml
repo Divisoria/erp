@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <menuitem id="product_menu_root" name="Product Management">
+        <menuitem id="product_settings_menu" name="Settings">
+            <menuitem id="product_menu_action" action="product_action"/>
+        </menuitem>
+    </menuitem>
+</odoo>
